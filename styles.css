@@ -1,0 +1,29 @@
+*{
+	background-color: black;
+	color: lightblue;
+}
+#container{
+	width: 800px;
+	height: 400px;
+	background-color: black;
+	padding: 100px;
+	border: 3px purple;
+}
+#chatbox{
+	text-align: bottom;
+}
+img{
+	width: 60px;
+	display: inline-block;
+}
+button{
+	color: lightblue;
+	padding: 10px;
+}
+input{
+	padding: 10px;
+}
+#usertxt{
+	height:400px;
+	border: 2px solid purple;
+}
